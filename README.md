@@ -28,7 +28,7 @@ This project focuses on developing a comprehensive analysis and predictive model
 
 1. **Environment Setup:** Make sure you have Python 3.6+ installed. It's recommended to use a virtual environment.
 
-2. **Dependency Installation:** Install all required libraries using `pip install -r requirements.txt` (ensure you have a requirements file created).
+2. **Dependency Installation:** Install all required libraries.
 
 3. **Data Preparation:** Load and preprocess the dataset. Apply label encoding to categorical variables, impute missing values, and scale the features.
 
