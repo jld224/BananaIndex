@@ -1,4 +1,4 @@
-# Project README
+# The Banana Index
 
 ## Introduction
 
